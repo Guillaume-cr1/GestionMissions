@@ -1,0 +1,12 @@
+# Fichiers générés par NetBeans
+/build/
+/dist/
+
+# Paramètres personnels de NetBeans
+/nbproject/private/
+
+# Fichiers compilés Java
+*.class
+
+# Fichiers journaux
+*.log
